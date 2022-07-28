@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#info{
+  margin-left: 50px;
+  font-style: italic;
+}
+
+/* .Progression6{
+  width: 100px;
+} */
